@@ -1,6 +1,7 @@
 # asm-tictactoe
 
-tic-tac-toe fully written in x86-64 assembly
+tic-tac-toe fully written in x86-64 assembly<br>
+loosely based on my C implementation in example directory
 
 #### how to play
 compile and run the executable<br>
