@@ -15,7 +15,7 @@ board square indices:<br>
 
 note: no checks for validity of move YET (e.g. valid index)
 
-#### compiling: 
+#### to assemble: 
 gcc -no-pie -z noexecstack -o main src/*.s
 
 run the executable main
